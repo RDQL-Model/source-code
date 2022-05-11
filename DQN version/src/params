@@ -1,0 +1,8 @@
+{
+    'gamma': 0.1, # discounted future reward
+    'epsilon': 0.5, # epsilon-greedy policy: probability of random action
+    'obs_dim': 101, # Number of states + 1
+    'stateNum': 100, # number of states
+    'connection_num': 0., # It's not useful now. Default 0 is fine, it was originally intended to set the link probability of high-dimensional data.
+    'epoch': 200, # number of epochs
+}
