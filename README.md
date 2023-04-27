@@ -1,2 +1,1 @@
-# source-code
-The new version software of the Reaction-Diffusion model using Q-Learning (RDQL) will be released. If you have any question, please contact Dong Li (dongli@sdu.edu.cn).
+The online demonstration of the RDQL model can be visited via online website: http://47.115.226.168/. The new version software of the Reaction-Diffusion model using Q-Learning (RDQL) will being released. If you have any question about this software, please contact Dong Li (dongli@sdu.edu.cn).
